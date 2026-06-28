@@ -39,3 +39,14 @@ Single Column
 
 Maximum Content Width:
 720px
+## Home Screen Components
+
+- App Bar
+- Search
+- User Profile
+- Featured Banner
+- Category Chips
+- Article Card
+- Bottom Navigation
+
+Status: Planned
