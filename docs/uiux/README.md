@@ -1,0 +1,41 @@
+# মননচর্চা UI/UX
+
+## প্রকল্পের লক্ষ্য
+
+মননচর্চা একটি বাংলা মননশীল ডিজিটাল সাময়িকী।
+
+এখানে পাঠক যেন সহজে সাহিত্য, ইতিহাস, দর্শন, অর্থনীতি ও সমাজবিষয়ক লেখা পড়তে পারেন।
+
+## ডিজাইন নীতি
+
+- Mobile First
+- Minimal Design
+- বাংলা টাইপোগ্রাফি অগ্রাধিকার
+- দ্রুত লোডিং
+- সহজ নেভিগেশন
+- দীর্ঘ লেখা পড়ার উপযোগী
+
+## রঙ
+
+Primary: #1A1A1A
+
+Background: #F8F6F2
+
+Accent: #8B5E3C
+
+Link: #2F5E8E
+
+## Typography
+
+Heading:
+Noto Serif Bengali
+
+Body:
+Noto Sans Bengali
+
+## Grid
+
+Single Column
+
+Maximum Content Width:
+720px
