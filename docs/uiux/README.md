@@ -50,3 +50,21 @@ Maximum Content Width:
 - Bottom Navigation
 
 Status: Planned
+## Home Screen Layout
+
+1. App Bar
+   - Logo
+   - Search
+   - Profile
+
+2. Featured Banner
+
+3. Category Navigation
+
+4. Latest Articles
+
+5. Popular Articles
+
+6. Bottom Navigation
+
+Status: Planned
